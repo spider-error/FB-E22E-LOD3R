@@ -1,4 +1,4 @@
-# 👑 Ashu E2EE Facebook Bot
+# 👑 SP!D3R E2EE Facebook Bot
 
 Fully Automated Facebook E2EE Messenger Bot
 
@@ -50,4 +50,4 @@ Fully Automated Facebook E2EE Messenger Bot
 Use responsibly and in compliance with Facebook's Terms of Service.
 
 ---
-**Made with ❤️ by Ashu**
+**Made with ❤️ by SP!D3R**
